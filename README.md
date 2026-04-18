@@ -13,6 +13,6 @@ The evolution from early GBD methods to modern frameworks
 
 This repository also provides a web-based interface for easy reading and access to the full document.
 
-Check out this link:
+Check out this link: https://rajeshmajumder97.github.io/DALY-Explain/
 
 For Other posts: https://rajeshmajumderblog.netlify.app/
